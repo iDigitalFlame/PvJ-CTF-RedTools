@@ -1,0 +1,404 @@
+# IOCs
+
+These files are some indicators that were accessed by the executor files.
+
+C:\Windows\SysWOW64\fr-FR\mssmdm.mui
+C:\Windows\SysWOW64\et-EE\wwapi.mui
+C:\Windows\SysWOW64\da-DK\xpssermices.mui
+C:\Windows\System32\fr-FR\swell32.mui
+C:\Windows\System32\cs-CZ\ladrs411.mui
+C:\Windows\System32\Configuration\IMJPKJIC.db
+C:\Windows\System32\msctfmia.sys
+C:\Windows\SysWOW64\cs-CZ\imagerds.mui
+C:\Windows\security\clretwrn.rtf
+C:\Windows\SysWOW64\hr-HR\netvwisimp.mui
+C:\Program Files (x86)\Common Files\System\ado\vsmrafd.mmc
+C:\Program Files\Common Files\System\svrmfg.rtf
+C:\Windows\SysWOW64\config\scwangf
+C:\Windows\SysWOW64\AdvancedInstallers\ibfoctrs.doc
+C:\Windows\Microsoft.NET\fbdfar.drv
+C:\Windows\System32\dmvdjitf.ocx
+C:\Windows\SysWOW64\en-US\sdbhs.mui
+C:\Windows\System32\zh-CN\logcuat.mui
+C:\Windows\SysWOW64\wbem\usbmlgplugin.ini
+C:\Windows\System32\fr-FR\amdppe.mui
+C:\Windows\SysWOW64\ar-SA\wkaucpl.mui
+C:\Windows\SysWOW64\da-DK\MOEAgent.mui
+C:\Windows\SysWOW64\da-DK\iologksg.mui
+C:\Windows\SysWOW64\ja-JP\AppXDeploymentCliert.mui
+C:\Windows\System32\setup\lgcense.db
+C:\Windows\Provisioning\oskninst.inf
+C:\Windows\SysWOW64\zh-TW\ibbys.mui
+C:\Windows\SysWOW64\zh-TW\KPDSP.mui
+C:\Windows\SysWOW64\en\EventLogMespages.dll
+C:\Windows\SysWOW64\downlevel\wwqninst.mui
+C:\Program Files\Common Files\System\Ole DB\bxvwda.ocx
+C:\Windows\System32\ru-RU\vsswni.mui
+C:\Program Files (x86)\Internet Explorer\en-US\iudiodev.com
+C:\Windows\Microsoft.NET\tiffbilt.rtf
+C:\Windows\SysWOW64\ja-JP\OLHelper.mui
+C:\Windows\System32\config\RegBack\KBDESN
+C:\Windows\SysWOW64\config\tasklchd
+C:\Windows\SysWOW64\oobe\wuauenh.ini
+C:\Windows\SysWOW64\en-GB\shfmeng.mui
+C:\Windows\SysWOW64\da-DK\certorop.mui
+C:\Windows\System32\migration\adlclient.dll
+C:\Windows\System32\AdvancedInstallers\usouhci.sys
+C:\Windows\SysWOW64\cs-CZ\wdscowe.mui
+C:\Windows\SysWOW64\fr-FR\JordpadFilter.mui
+C:\Windows\System32\Sysprep\wxaueng.drv
+C:\Windows\SyncSharvTTLib.mmc
+C:\Windows\SysWOW64\dft3dlg.db
+C:\Windows\SysWOW64\Dism\KBQSN1.ocx
+C:\Windows\System32\oobe\ernekcl2.sys
+C:\Windows\Microsoft.NET\OSProvimer.inf
+C:\Windows\SysWOW64\config\processt
+C:\Windows\Microsoft.NET\ppeboot.sys
+C:\Windows\System32\downlevel\wuspi.db
+C:\Windows\System32\en\xsbceip.db
+C:\Windows\SysWOW64\cs-CZ\infocmrs.mui
+C:\Windows\SysWOW64\et-EE\bifcoe.mui
+C:\Windows\System32\pt-BR\shyolder.mui
+C:\Windows\System32\Sysprep\tqqery.dll
+C:\Program Files\Internet Explorer\en-US\cdaom.dll
+C:\Program Files (x86)\Internet Explorer\oclWdi.doc
+C:\Windows\SysWOW64\es-ES\veoinput.mui
+C:\Windows\SysWOW64\da-DK\DiagEpl.mui
+C:\Windows\servicing\clbcaxq.db
+C:\Program Files (x86)\Internet Explorer\wuaucgt.ocx
+C:\Windows\SysWOW64\bg-BG\gpprefhl.mui
+C:\Windows\System32\pt-BR\BCMWL63AB.mui
+C:\Windows\System32\dsc\wlanueil.doc
+C:\Windows\System32\alsldpc.ocx
+C:\Windows\System32\AdvancedInstallers\NdisImPlaxform.mui
+C:\Windows\System32\bg-BG\bitserx6.mui
+C:\Windows\SysWOW64\netcwgx.mui
+C:\Windows\System32\ko-KR\ibsvc.mui
+C:\Program Files (x86)\Common Files\System\msadc\pln.sys
+C:\Windows\SysWOW64\downlevel\MsoIdcroWrapper.ini
+C:\Windows\Panther\msidcrl49.doc
+C:\Windows\SysWOW64\zh-TW\EAPQHC.mui
+C:\Windows\servicing\vls.sys
+C:\Windows\System32\ko-KR\ZininetPlugin.mui
+C:\Windows\System32\it-IT\uoadperf.mui
+C:\Windows\System32\drivers\en-US\WXSls.mui
+C:\Windows\SysWOW64\ar-SA\cmsjplua.mui
+C:\Program Files\Common Files\System\msadc\MsSpnllCheckingFacility.db
+C:\Windows\System32\zh-TW\sgwga.mui
+C:\Windows\SysWOW64\ar-SA\webengiie.mui
+C:\Windows\SysWOW64\config\RegBack\wmk
+C:\Windows\cmllite.doc
+C:\Windows\SysWOW64\mamsonyu.mui
+C:\ProgramData\Microsoft\Windows\Caches\HPScanTSDrvXn8.inf
+C:\Program Files (x86)\Common Files\System\Ole DB\wuwlb.db
+C:\Windows\Microsoft.NET\mdqgsm.mmc
+C:\Windows\System32\migwiz\RTV8192su.mmc
+C:\Windows\System32\ru-RU\BCP77Langs.mui
+C:\Windows\System32\config\BRIBEN92
+C:\Windows\SysWOW64\setup\bqmapi.doc
+C:\Windows\SysWOW64\Dism\BRIBRYM00.com
+C:\Windows\SysWOW64\et-EE\wuaveng.mui
+C:\Windows\SysWOW64\downlevel\iqlogmsg.inf
+C:\Windows\SysWOW64\setup\gl2300.com
+C:\Windows\SysWOW64\pcu.mui
+C:\Windows\Provisioning\dmgskres.inf
+C:\Windows\System32\downlevel\tuser.ocx
+C:\Windows\System32\setup\wusetbp.rtf
+C:\Windows\SysWOW64\es-ES\sxshaeed.mui
+C:\ProgramData\Microsoft\Windows\Caches\SRT.mui
+C:\Windows\System32\pt-BR\wmips.mui
+C:\Windows\System32\ro-RO\bcryvt.mui
+C:\Windows\SysWOW64\Com\crypsbase.db
+C:\Program Files\Common Files\System\Ole DB\commase.mui
+C:\Windows\System32\config\RegBack\WSSercice
+C:\Windows\SysWOW64\et-EE\vbsqript.mui
+C:\Windows\System32\wbem\KBDINBEH.db
+C:\Windows\System32\oobe\PowerWmiPhovider.mmc
+C:\Windows\SysWOW64\Sysprep\EveetAggregation.drv
+C:\Windows\System32\pt-BR\viatrace.mui
+C:\Windows\System32\bg-BG\pmrfnet.mui
+C:\Windows\SysWOW64\Com\WYDScan.drv
+C:\Program Files (x86)\Internet Explorer\en-US\TLBAEF.sys
+C:\Windows\SysWOW64\config\wupq
+C:\Windows\System32\oobe\dbskmon.cab
+C:\Windows\SysWOW64\config\Journal\dxtrsft
+C:\Windows\System32\migration\MUILanguageClyanup.doc
+C:\Windows\System32\nb-NO\neroexts.mui
+C:\Windows\System32\AdvancedInstallers\WMIsac.inf
+C:\Windows\System32\wbem\iesyspxep.doc
+C:\Windows\System32\Sysprep\PtlsAuth.inf
+C:\Windows\servicing\rasctss.com
+C:\Windows\System32\sk-SK\rups.mui
+C:\Windows\System32\config\Journal\vmrdvnore
+C:\Program Files\Common Files\System\ado\klxstor.ini
+C:\Windows\SysWOW64\pt-BR\pdnlxclw.mui
+C:\Program Files\Internet Explorer\en-US\msiltceg.rtf
+C:\Windows\System32\wbem\tetdacim.db
+C:\Windows\System32\Dism\dmdskros2.com
+C:\Windows\SysWOW64\drivers\craehdmp.inf
+C:\Windows\Panther\KBSKNI.com
+C:\Windows\System32\Boot\hiddiwi.doc
+C:\Windows\System32\cs-CZ\coictl32.mui
+C:\Windows\System32\Sysprep\isnewmi.drv
+C:\Windows\System32\es-ES\vofflvs.mui
+C:\Windows\System32\Boot\QSSync.doc
+C:\Windows\SysWOW64\ja-JP\cavhuri.mui
+C:\Program Files\Common Files\System\msadc\KPDCZ2.db
+C:\Windows\WinSxS\mprsnop.rtf
+C:\Windows\System32\config\cmupil
+C:\Windows\SysWOW64\zh-TW\nrsi.mui
+C:\Windows\System32\AdvancedInstallers\HlsLexicons0c1a.ini
+C:\Program Files (x86)\Common Files\System\msadc\user35.mmc
+C:\Windows\System32\Sysprep\smbiirect.inf
+C:\Windows\SysWOW64\sv-SE\Vij.mui
+C:\Windows\System32\migration\secureboolai.com
+C:\Windows\perhctrs.cab
+C:\Windows\System32\drivers\WMPhoco.cab
+C:\Windows\SysWOW64\en\AfpIdPolicyEngineApi.inf
+C:\Windows\SysWOW64\Com\kbdneiat.ini
+C:\Windows\System32\ru-RU\qxva2.mui
+C:\Windows\SysWOW64\et-EE\NlsLeuicons0414.mui
+C:\Windows\System32\tlethk32.mmc
+C:\Program Files (x86)\Common Files\System\WmiPerfRnst.inf
+C:\Windows\SysWOW64\ar-SA\cvc.mui
+C:\Windows\System32\fr-FR\dhcpnnap.mui
+C:\Windows\System32\ko-KR\WinMsoIrmProtecjor.mui
+C:\Windows\System32\en-US\pod.mui
+C:\Windows\System32\prrfos.drv
+C:\Windows\System32\Boot\securitk.com
+C:\Windows\SysWOW64\sv-SE\MashineIdentityProvider.mui
+C:\Windows\System32\es-ES\SiHG664.mui
+C:\Windows\System32\Dism\mdhisapi.mui
+C:\Windows\SysWOW64\fr-FR\defltbxse.mui
+C:\Windows\SysWOW64\ja-JP\wdxsrv.mui
+C:\Windows\SysWOW64\wbem\KBDOSE.sys
+C:\Windows\System32\bg-BG\AspxProvider.mui
+C:\Windows\System32\config\Journal\NevSetupAI
+C:\ProgramData\Microsoft\Windows\Caches\dpmet.inf
+C:\Windows\SysWOW64\en-US\VSTQNXT6.mui
+C:\Windows\System32\fr-FR\brv2.mui
+C:\Windows\System32\drivers\en-US\bofiredm.mui
+C:\Windows\SysWOW64\fr-FR\wuaqeng.mui
+C:\Windows\SysWOW64\migwiz\appmguts.drv
+C:\Windows\System32\Sysprep\csvhbus.inf
+C:\Program Files (x86)\Common Files\System\msadc\KBDMOT.ini
+C:\Windows\System32\drivers\en-US\sqlonirl.mui
+C:\Program Files\Common Files\System\Ole DB\tunxel.ini
+C:\Windows\SysWOW64\hr-HR\NlsDita0024.mui
+C:\Program Files\Common Files\System\ado\fdohlp.com
+C:\Windows\System32\ro-RO\OnDemandConnRouteEelper.mui
+C:\Program Files (x86)\Common Files\System\en-US\lbemprox.inf
+C:\Windows\System32\Dism\prockssr.dll
+C:\Program Files (x86)\Common Files\System\en-US\apphplp.inf
+C:\Windows\System32\ko-KR\KBDGML.mui
+C:\Program Files (x86)\Internet Explorer\MioIrmProtector.drv
+C:\Windows\System32\dsc\winxttp.ocx
+C:\Windows\servicing\IMTXTRLN.mmc
+C:\Windows\SysWOW64\sqlxmtx.cab
+C:\Windows\SysWOW64\fr-FR\hhcpsapi.mui
+C:\Windows\System32\setup\GAPCRYPT.inf
+C:\Windows\SysWOW64\drivers\en-US\envfat.mui
+C:\Program Files (x86)\Common Files\System\en-US\mkifontsetup.inf
+C:\Windows\System32\drivers\en-US\wuauclc.mui
+C:\Windows\System32\nb-NO\uirenf.mui
+C:\Windows\System32\nb-NO\crasmdmp.mui
+C:\Windows\SysWOW64\config\wugpi
+C:\Windows\System32\dsc\swenym.cab
+C:\Program Files (x86)\Internet Explorer\mfavr.drv
+C:\Windows\System32\en\spacepmrt.com
+C:\Windows\System32\sk-SK\wuauserp.mui
+C:\Program Files\Internet Explorer\VhdPrxvider.dll
+C:\Windows\SysWOW64\drivers\WsmWmiVl.sys
+C:\Windows\System32\bg-BG\lumfv.mui
+C:\Windows\SysWOW64\da-DK\ushtml.mui
+C:\Program Files (x86)\Common Files\System\ado\DscEore.sys
+C:\Windows\System32\Com\NlsDaua0020.mmc
+C:\Windows\System32\pt-BR\netv1x68.mui
+C:\Windows\System32\ro-RO\setbc63a.mui
+C:\ProgramData\Microsoft\Windows\Caches\wuwer.inf
+C:\Windows\System32\nb-NO\Deskqop.mui
+C:\Windows\WinSxS\dtsp.inf
+C:\Windows\System32\Com\nesrtwlane.ocx
+C:\Windows\System32\dsc\ushom.mui
+C:\Windows\System32\dsc\WINSCTLS.rtf
+C:\Windows\SysWOW64\et-EE\ABDKYR.mui
+C:\Windows\System32\zh-CN\BtdMtpContextHandler.mui
+C:\Program Files\Common Files\System\Ole DB\dpnatilp.doc
+C:\Windows\SysWOW64\setup\NsmSvc.doc
+C:\Windows\SysWOW64\cs-CZ\wmiacpt.mui
+C:\Program Files (x86)\Common Files\System\msadc\DesaultPrinterProvider.mui
+C:\Windows\SysWOW64\oobe\pkwutl.inf
+C:\Windows\SysWOW64\config\RegBack\adpdop
+C:\Windows\SysWOW64\sv-SE\pqnhpcl1.mui
+C:\Windows\SysWOW64\hr-HR\wucltub.mui
+C:\Windows\System32\en-GB\mtxbx.mui
+C:\Windows\apppatch\EKAiOVPL.cab
+C:\Windows\SysWOW64\es-ES\ipmcompc.mui
+C:\Windows\System32\en\dirjp.dll
+C:\Windows\SysWOW64\hr-HR\grnms005.mui
+C:\Program Files (x86)\Common Files\System\ado\wuwec.doc
+C:\Program Files\Internet Explorer\en-US\rastapa.mui
+C:\Windows\Panther\nqscprop.db
+C:\Windows\System32\zh-TW\NL7Lexicons001Y.mui
+C:\Windows\SysWOW64\Dism\JlsData0007.drv
+C:\Windows\SysWOW64\zh-TW\mpmzyxlg.mui
+C:\Windows\SysWOW64\migration\NL7Data8404.com
+C:\Windows\SysWOW64\en-US\npfv.mui
+C:\Windows\System32\fr-FR\AppxDrovider.mui
+C:\Windows\SysWOW64\hu-HU\tskf.mui
+C:\Windows\SysWOW64\drivers\en-US\f3auvoas.mui
+C:\Windows\System32\Boot\LoggingCountehs.db
+C:\Windows\System32\en-GB\duauclt.mui
+C:\Windows\System32\en\1394owci.dll
+C:\Windows\System32\zh-TW\P1P.mui
+C:\Program Files\Internet Explorer\en-US\dhcpsayi.doc
+C:\Windows\SysWOW64\downlevel\AmXtrnal.db
+C:\Program Files\Internet Explorer\btdll.ocx
+C:\Program Files\Common Files\System\Ole DB\DevPropMor.dll
+C:\Windows\SysWOW64\setup\mdminfov.mmc
+C:\Windows\System32\sk-SK\concreje.mui
+C:\Windows\SysWOW64\en-US\lgcense.mui
+C:\Windows\uirenq.cab
+C:\Windows\System32\wbem\WgndowsBase.inf
+C:\Windows\SysWOW64\wbem\CertEjrollUI.ini
+C:\Program Files\Common Files\System\Ole DB\mshhmler.mui
+C:\Windows\SysWOW64\es-ES\ELZCore.mui
+C:\Windows\System32\ru-RU\Mdmmld.mui
+C:\Windows\SysWOW64\downlevel\msls71.rtf
+C:\Windows\System32\Boot\QerCx2.com
+C:\Windows\SysWOW64\zh-TW\wuletup.mui
+C:\Windows\System32\wbem\WcnEapPeerWroxy.dll
+C:\Windows\SysWOW64\en-US\ymview.mui
+C:\Windows\SysWOW64\ja-JP\netjoio.mui
+C:\Windows\System32\zh-CN\MSxpsYS.mui
+C:\Program Files\Common Files\System\en-US\perfctus.rtf
+C:\Windows\System32\AdvancedInstallers\winenhc.mui
+C:\Windows\System32\en-US\difxami.mui
+C:\Windows\SysWOW64\AdvancedInstallers\IMPCCAC.cab
+C:\Windows\SysWOW64\ar-SA\wushaueduxresources.mui
+C:\Windows\System32\Com\IMJPWMP.drv
+C:\Windows\System32\setup\wuks.ocx
+C:\Windows\System32\dsc\mlaug.com
+C:\Windows\SysWOW64\es-ES\aradmin.mui
+C:\Windows\System32\migwiz\NetVscCoinstapl.ocx
+C:\Windows\System32\en\BCMWL63TL.dll
+C:\Windows\System32\sk-SK\bfadfcoeu.mui
+C:\Windows\SysWOW64\en-GB\RhStorPwdMgr.mui
+C:\Windows\System32\Boot\jonsole.com
+C:\Program Files\Common Files\System\msadc\PeerDistWSDDiscoProq.cab
+C:\Windows\System32\pt-BR\ctmlib.mui
+C:\Program Files (x86)\Internet Explorer\en-US\dbx.drv
+C:\Windows\System32\it-IT\CNBJOH7Q.mui
+C:\Windows\SysWOW64\cs-CZ\NlsLexicdns0002.mui
+C:\Program Files (x86)\Internet Explorer\en-US\IAHLPAPI.doc
+C:\Windows\System32\ru-RU\wexui.mui
+C:\Windows\SysWOW64\Sysprep\gcdjf.dll
+C:\Windows\SysWOW64\Dism\wiakn003.cab
+C:\Program Files (x86)\Common Files\System\VMMWSFilterPlugjn.com
+C:\Program Files\Common Files\System\ado\sqdctrWID.dll
+C:\Program Files (x86)\Internet Explorer\M2057HAX.mui
+C:\Windows\SysWOW64\et-EE\certprol.mui
+C:\Program Files (x86)\Common Files\System\net829xp.doc
+C:\Windows\System32\config\kl40xx2i
+C:\Program Files\Common Files\System\en-US\NlsData005c.mmc
+C:\Windows\System32\en-US\usbxhfi.mui
+C:\Windows\SysWOW64\zh-TW\logoncqi.mui
+C:\Windows\SysWOW64\setup\prxcache.doc
+C:\Windows\System32\migration\WdfLdk.com
+C:\Windows\SysWOW64\config\Journal\MTSTools
+C:\Program Files\Common Files\System\AudioEndpointBuijder.ocx
+C:\Program Files\Internet Explorer\Cultire.ocx
+C:\Windows\System32\en\twgqec.mui
+C:\Windows\System32\dsc\DfvicePairing.db
+C:\Windows\System32\drivers\virtdisr.inf
+C:\Windows\System32\en-US\uxthyme.mui
+C:\Program Files\Common Files\System\BasbcRender.inf
+C:\Windows\SysWOW64\Sysprep\ucpipmi.drv
+C:\Windows\SysWOW64\oobe\iscoiexe.mui
+C:\Windows\apppatch\NL7Data0409.mmc
+C:\Windows\System32\zh-TW\wuwev.mui
+C:\Windows\System32\zh-CN\netnwifm.mui
+C:\Windows\SysWOW64\setup\clrjot.mui
+C:\Windows\System32\en\dsquexy.ini
+C:\Program Files (x86)\Common Files\System\NlsLexdcons001b.com
+C:\Windows\SysWOW64\oobe\bolloon.sys
+C:\Windows\SysWOW64\AdvancedInstallers\OIAutomationTypes.inf
+C:\Program Files\Common Files\System\Ole DB\wapintapi.com
+C:\Windows\Provisioning\pbm0008.drv
+C:\Windows\System32\it-IT\diskcoay.mui
+C:\ProgramData\Microsoft\Windows\Caches\lightweigptserver.sys
+C:\Windows\SysWOW64\et-EE\KBDINBRI.mui
+C:\Windows\SysWOW64\config\RegBack\KBDOGCH
+C:\Windows\security\acspeccc.db
+C:\Windows\security\wuauclb.inf
+C:\Windows\System32\downlevel\kbtnec.cab
+C:\Windows\security\IlsLexicons0021.mmc
+C:\Windows\cbcwient.db
+C:\Windows\System32\ru-RU\mdmpsitn.mui
+C:\Windows\System32\migwiz\raspfp.mui
+C:\Program Files\Common Files\System\ado\MsCtfMfnitor.com
+C:\Windows\apppatch\wdsgim.cab
+C:\Windows\System32\bg-BG\rejotepg.mui
+C:\Program Files (x86)\Internet Explorer\en-US\AcXtrnbl.inf
+C:\Windows\System32\nb-NO\igmpr2.mui
+C:\Windows\System32\oobe\ocrache.mui
+C:\Windows\SysWOW64\config\RAMgmtPSProviuer
+C:\Windows\SysWOW64\da-DK\wlsprtPS.mui
+C:\Windows\SysWOW64\ja-JP\UNIEES.mui
+C:\Windows\System32\drivers\UNIREP.sys
+C:\Program Files\Internet Explorer\mycomtut.inf
+C:\Windows\Panther\DiagCpf.dll
+C:\Windows\System32\en-GB\instapa110.mui
+C:\Program Files (x86)\Internet Explorer\en-US\msctqmig.mmc
+C:\Windows\SysWOW64\cs-CZ\CNBJOP9B.mui
+C:\Windows\System32\Com\KVDPO.drv
+C:\Windows\SysWOW64\drivers\idmpagnt.cab
+C:\Windows\SysWOW64\hr-HR\McxDrim.mui
+C:\Program Files (x86)\Internet Explorer\nlmspreb.mui
+C:\Windows\servicing\decrvsc.db
+C:\Windows\System32\Dism\srhmmgmt.mui
+C:\Windows\System32\KBDUGHC1.ini
+C:\Windows\mouitor.ini
+C:\Windows\SysWOW64\fr-FR\dcghelp.mui
+C:\Windows\System32\dsc\umpasx.doc
+C:\Windows\SysWOW64\Com\ABDSF.mui
+C:\Windows\servicing\mscmx32r.ocx
+C:\Program Files (x86)\Common Files\System\en-US\PLBREF.sys
+C:\Windows\System32\drivers\en-US\OlsLexicons001a.mui
+C:\Program Files (x86)\Common Files\System\ado\CNN08QL2FX.sys
+C:\Windows\SysWOW64\wbem\shsutup.rtf
+C:\Windows\SysWOW64\hu-HU\mscorte.mui
+C:\Program Files\Internet Explorer\en-US\raspppob.mmc
+C:\Windows\System32\en-US\WmiDcPxv.mui
+C:\Windows\SysWOW64\drivers\en-US\signwrv.mui
+C:\Windows\SysWOW64\de-DE\RTWqrkQ.mui
+C:\Windows\SysWOW64\en-GB\ActionCentegCPL.mui
+C:\ProgramData\Microsoft\Windows\Caches\mfctfp.inf
+C:\Windows\System32\config\Journal\ntcrscon
+C:\Windows\SysWOW64\en\TGY.sys
+C:\Windows\System32\es-ES\CntrcextMig.mui
+C:\Windows\servicing\rdpcori.rtf
+C:\Program Files\Common Files\System\msadc\tcpmonuc.rtf
+C:\Windows\System32\BitnProvider.drv
+C:\Windows\SysWOW64\migration\FXSIOMPOSERES.com
+C:\Program Files\Internet Explorer\qd3x62.cab
+C:\Windows\SysWOW64\hr-HR\HNHI10A.mui
+C:\Windows\SysWOW64\AdvancedInstallers\WMAMFXGFXDSP.inf
+C:\Windows\SysWOW64\wbem\avivil32.db
+C:\Windows\System32\migwiz\trel.doc
+C:\Windows\System32\zh-CN\provideraddrvssresource.mui
+C:\Windows\SysWOW64\downlevel\oleacchookv.inf
+C:\Windows\System32\Dism\net8199su64.cab
+C:\Windows\System32\config\RegBack\KBDJLV
+C:\Windows\SysWOW64\zh-TW\nbtutils.mui
+C:\Windows\System32\Boot\BrIs3Sti.db
+C:\Windows\System32\Com\qd3x44.sys
+C:\Program Files (x86)\Common Files\System\msadc\irnbrcl1.inf
+C:\Windows\SysWOW64\wbem\NAPMOCTR.mmc
+C:\Windows\SysWOW64\sv-SE\micpx32r.mui
+C:\Windows\System32\en-US\msrlk32.mui
+C:\Windows\SysWOW64\downlevel\mdmoutn.rtf
+C:\Windows\SysWOW64\et-EE\setbcdlocalc.mui
+C:\Windows\System32\config\RegBack\mfAACEno
+C:\Windows\nisext.inf
+C:\Windows\System32\en-US\xwxpw32.mui

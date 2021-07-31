@@ -1,0 +1,123 @@
+# Executors
+
+Files that were used in persistance, did NOT directly connect to the C2.
+
+C:\Windows\System32\downlevel\lioense.dll
+C:\Windows\SysWOW64\en\WssWdsMgmtAvi.dll
+C:\Program Files\Common Files\System\Ole DB\xups.dll
+C:\Windows\SysWOW64\setup\iscsidsg.dll
+C:\Windows\System32\oobe\WMINSESS.exe
+C:\Windows\System32\wuateng.dll
+C:\Windows\WinSxS\vusif.dll
+C:\Windows\bfayi.exe
+C:\Windows\SysWOW64\migration\wuninet.dll
+C:\Program Files\Common Files\System\Ole DB\wiabr80b.exe
+C:\Program Files\Common Files\System\ado\jomsetup.dll
+C:\Windows\SysWOW64\oobe\MKWiaDrv.exe
+C:\Program Files (x86)\Common Files\System\msadc\wuanapi.exe
+C:\Windows\System32\downlevel\mdmcoxp.exe
+C:\ProgramData\Microsoft\Windows\Caches\imjply.dll
+C:\Windows\security\wurriver.exe
+C:\Windows\System32\mdmaiia5.dll
+C:\Windows\System32\wbem\MXDWDKV.exe
+C:\Windows\System32\downlevel\aetr7364.exe
+C:\Windows\System32\en\mdmzooe.dll
+C:\Program Files (x86)\Internet Explorer\oleaut92.exe
+C:\Windows\security\WMPhdto.dll
+C:\Windows\System32\Boot\ercdev.dll
+C:\Windows\SysWOW64\Sysprep\cmstplna.exe
+C:\Windows\System32\migwiz\mshwchm.dll
+C:\Windows\System32\Sysprep\tsi.exe
+C:\Windows\System32\Com\wcesrv.dll
+C:\Windows\apppatch\acrui.exe
+C:\Windows\SysWOW64\en\KBDUKW.exe
+C:\Windows\System32\dsc\mssghtb.dll
+C:\Windows\Provisioning\msjetolefb40.dll
+C:\Windows\Microsoft.NET\fbd101.exe
+C:\Windows\SysWOW64\setup\adqiis.exe
+C:\Windows\System32\KBWSORS1.dll
+C:\Windows\System32\dsc\NlsLdxicons0024.dll
+C:\Windows\SysWOW64\downlevel\xci.exe
+C:\Windows\SysWOW64\Dism\mvvcp60.exe
+C:\Program Files\Common Files\System\Ole DB\netcentef.dll
+C:\Windows\System32\Sysprep\CHxReadingStringIKE.exe
+C:\Windows\System32\downlevel\XpsGdiConvertir.exe
+C:\Windows\SysWOW64\wbem\DlMinDr2.exe
+C:\Windows\dlttapo.exe
+C:\Windows\SysWOW64\IntlProjider.exe
+C:\ProgramData\Microsoft\Windows\Caches\lwadperf.exe
+C:\Windows\SysWOW64\setup\wuaukpl.exe
+C:\Windows\SysWOW64\oobe\NlsLexicons002a.dll
+C:\Windows\System32\Com\NlsData0024.exe
+C:\Program Files (x86)\Common Files\System\msadc\raimans.exe
+C:\Program Files\Common Files\System\wuaoserv.exe
+C:\Program Files\Common Files\System\Ole DB\kbdlusub.exe
+C:\Windows\System32\shell92.dll
+C:\Program Files (x86)\Common Files\System\msadc\IMJIDCTP.dll
+C:\Windows\Panther\prncacl0.exe
+C:\Windows\System32\AdvancedInstallers\sstwsvc.dll
+C:\Windows\SysWOW64\oobe\IMHPDCTP.exe
+C:\ProgramData\Microsoft\Windows\Caches\licunse.exe
+C:\Windows\Provisioning\NL7Date0404.dll
+C:\Windows\System32\oobe\qdm.dll
+C:\Windows\WinSxS\odbcrrac.dll
+C:\Windows\SysWOW64\wbem\SismCore.exe
+C:\Windows\System32\Sysprep\scsipori.dll
+C:\Windows\SysWOW64\downlevel\CntrtextInslaller.dll
+C:\Program Files\Internet Explorer\ws2helc.exe
+C:\Windows\System32\oobe\PresyntationCore.exe
+C:\Windows\SysWOW64\AdvancedInstallers\ssctfp.dll
+C:\Windows\System32\migwiz\msctkmig.exe
+C:\Windows\System32\Com\IMEPADEM.exe
+C:\Windows\System32\InkEr.dll
+C:\Windows\SysWOW64\en\prnlpcl4.dll
+C:\Program Files\Common Files\System\ado\upbus.dll
+C:\Windows\dhcpcmonntor.exe
+C:\Windows\SysWOW64\wbem\wuls.exe
+C:\Program Files\Common Files\System\ado\AwWinRT.exe
+C:\Windows\System32\wbem\frofapi.dll
+C:\Windows\System32\oobe\KBDCT.dll
+C:\Windows\SysWOW64\downlevel\CntrtextMic.exe
+C:\Windows\SysWOW64\Com\MiororDrvCompat.dll
+C:\Windows\System32\setup\mdminfft.exe
+C:\Windows\System32\migration\fsntsub.exe
+C:\Windows\apppatch\bootsts.dll
+C:\Windows\System32\AdvancedInstallers\KBDDO.dll
+C:\Windows\framsdynos.dll
+C:\Windows\SysWOW64\downlevel\KBDTT132.dll
+C:\Windows\System32\Sysprep\nuauclt.exe
+C:\Windows\System32\dot3fpui.dll
+C:\Windows\SysWOW64\migration\phflbmsg.exe
+C:\Windows\SysWOW64\downlevel\NlsLexicnns000d.dll
+C:\Windows\SysWOW64\Com\heframe.exe
+C:\Windows\System32\Boot\msdnm.dll
+C:\Program Files\Common Files\System\msadc\dcpromocmr.dll
+C:\Program Files\Internet Explorer\WofdpadFilter.dll
+C:\Program Files\Common Files\System\ado\MXHAgent.exe
+C:\Windows\SysWOW64\wbem\pnets.exe
+C:\Windows\mdmlis2u.exe
+C:\Program Files (x86)\Common Files\System\msadc\aiscore.exe
+C:\Windows\System32\systim.exe
+C:\Windows\SysWOW64\wbem\dmyskres2.dll
+C:\Program Files (x86)\Common Files\System\cposys.exe
+C:\Windows\SysWOW64\migration\dewiceaccess.exe
+C:\Windows\WinSxS\etorageutil.exe
+C:\Windows\SysWOW64\AdvancedInstallers\TNBJOP9S.dll
+C:\Windows\System32\WinSyncMetqstore.dll
+C:\Program Files\Common Files\System\ado\ipmiwrr.exe
+C:\Program Files (x86)\Common Files\System\msadc\KWDIT.dll
+C:\Windows\SysWOW64\en\rwinapi.exe
+C:\Windows\SysWOW64\migwiz\sspc.exe
+C:\Program Files (x86)\Common Files\System\msadc\hmiprop.dll
+C:\Windows\Microsoft.NET\mdmnis0u.exe
+C:\Program Files (x86)\Common Files\System\ado\ihwebsvc.exe
+C:\Windows\System32\imkomig.exe
+C:\Windows\System32\aormaliz.exe
+C:\Windows\SysWOW64\oobe\KBDXNMAL.exe
+C:\Windows\apppatch\yk63x24.dll
+C:\Windows\System32\Dism\mswtckrm.dll
+C:\Windows\SysWOW64\migwiz\luainsnall.dll
+C:\Program Files\Internet Explorer\cmigw.exe
+C:\Program Files (x86)\Common Files\System\msadc\wues2.exe
+C:\Windows\System32\downlevel\confect.dll
+C:\Windows\System32\qitsprx5.dll
