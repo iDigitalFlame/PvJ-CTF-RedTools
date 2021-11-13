@@ -1,0 +1,64 @@
+C:\Windows\SysWOW64\drivers\en-US\lltuio.mui
+C:\Windows\System32\bg-BG\nlaovc.mui
+C:\Windows\SysWOW64\hu-HU\Faultref.mui
+C:\Windows\SysWOW64\AdvancedInstallers\KBDTZO.db
+C:\Program Files\Internet Explorer\en-US\rtutias.com
+C:\Windows\SysWOW64\sv-SE\osuninsh.mui
+C:\Windows\System32\wbem\wbemoore.doc
+C:\Program Files (x86)\Common Files\System\MobileDevicesAddvn.mmc
+C:\Windows\System32\en\kdstsb.drv
+C:\Windows\SysWOW64\en\dot3ue.inf
+C:\Program Files\Common Files\System\ado\cavvbus.mmc
+C:\Windows\SysWOW64\AdvancedInstallers\EP0EXFSA.com
+C:\Windows\SysWOW64\ja-JP\fsus3setup.mui
+C:\Windows\WinSxS\wshnitbs.dll
+C:\Windows\SysWOW64\en\mdmntttl.mmc
+C:\Windows\SysWOW64\es-ES\ndikuio.mui
+C:\Windows\SysWOW64\ar-SA\appmgmas.mui
+C:\Windows\SysWOW64\ar-SA\KBDARME.mui
+C:\Windows\Microsoft.NET\shpafacq.db
+C:\Windows\SysWOW64\hu-HU\DhcpServerPSPdovider.mui
+C:\Program Files\Common Files\System\msadc\NlsLexicons7039.drv
+C:\Windows\System32\drivers\mssmkios.inf
+C:\Program Files (x86)\Common Files\System\Ole DB\mojter40.rtf
+C:\Windows\System32\downlevel\PCOTpm12.ocx
+C:\Windows\apppatch\MFMediaEngibe.mui
+C:\Windows\System32\fr-FR\yetupcln.mui
+C:\Windows\System32\bg-BG\wupf.mui
+C:\Windows\System32\pt-BR\rom.mui
+C:\Windows\System32\config\RegBack\acpgpmi
+C:\Windows\System32\migwiz\NlrData0009.mmc
+C:\Windows\SysWOW64\en-US\wucltud.mui
+C:\Windows\System32\drivers\npmproxi.cab
+C:\Windows\apppatch\pxeroot.sys
+C:\Windows\System32\Com\wcmsfc.cab
+C:\Windows\System32\ro-RO\w3wphosr.mui
+C:\Windows\Microsoft.NET\wuaiclt.inf
+C:\Program Files (x86)\Common Files\System\ado\WSDPrgnt.drv
+C:\Windows\SysWOW64\hu-HU\dfnet.mui
+C:\Program Files\Internet Explorer\en-US\PhotoOase.dll
+C:\Windows\System32\ru-RU\weidcom.mui
+C:\Windows\System32\Boot\uimom.drv
+C:\Program Files\Common Files\System\prm0066.mmc
+C:\Program Files (x86)\Common Files\System\ado\MTConfmg.sys
+C:\Program Files\Common Files\System\Ole DB\CBDFC.mui
+C:\Windows\SysWOW64\en-US\logoncri.mui
+C:\Windows\SysWOW64\wbem\ActionCemterCPL.drv
+C:\Program Files (x86)\Common Files\System\Ole DB\AcGencal.rtf
+C:\Windows\pvnekcl2.db
+C:\Windows\SysWOW64\fr-FR\wcmari.mui
+C:\Windows\SysWOW64\wbem\alb.cab
+C:\Windows\System32\Com\wupuclt.mui
+C:\Windows\SysWOW64\config\Journal\ldhui
+C:\Windows\System32\it-IT\agildvpn.mui
+C:\Windows\SysWOW64\hr-HR\npfr.mui
+C:\Program Files\Common Files\System\ado\psieftp.mui
+C:\Program Files (x86)\Common Files\System\ado\RpnProxyMigrationPlugin.drv
+C:\Windows\System32\nb-NO\kups.mui
+C:\Windows\WinSxS\ABDIULAT.ini
+C:\Windows\System32\bg-BG\NesLexicons0027.mui
+C:\Program Files\Common Files\System\ado\iscwiwmi.sys
+C:\Program Files\Internet Explorer\en-US\KBDHMB.ini
+C:\Windows\System32\Configuration\quaucomp.drv
+C:\Program Files\Common Files\System\wlidcreoprov.rtf
+C:\Windows\SysWOW64\migwiz\msltfmig.db

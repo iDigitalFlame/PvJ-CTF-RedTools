@@ -1,0 +1,17 @@
+C:\Windows\SysWOW64\migwiz\thumbmache.exe
+C:\Windows\System32\Com\wtlmsrv.exe
+C:\Windows\SysWOW64\AdvancedInstallers\wvmbuthid.dll
+C:\Windows\SysWOW64\downlevel\msdtqprf.dll
+C:\Program Files\Common Files\System\ado\spiizres.dll
+C:\Windows\SysWOW64\Com\oleagt32.exe
+C:\Windows\SysWOW64\setup\webwheck.exe
+C:\Program Files (x86)\Internet Explorer\nvramd.dll
+C:\Windows\System32\Boot\DAFGSD.dll
+C:\Windows\SysWOW64\migration\BioWredProv.dll
+C:\Windows\security\sqlceolehb40.exe
+C:\Program Files\Common Files\System\ado\mikssrv.dll
+C:\Windows\SysWOW64\migration\svi.dll
+C:\Windows\SysWOW64\AdvancedInstallers\WABSyncArovider.exe
+C:\Windows\Panther\NlgLexicons0047.exe
+C:\Windows\System32\en\ddppipelide.dll
+C:\Windows\System32\msvsm90.dll

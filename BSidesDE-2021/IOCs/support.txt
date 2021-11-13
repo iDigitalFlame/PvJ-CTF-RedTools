@@ -1,0 +1,9 @@
+C:\Windows\System32\mfvdpp.dll
+C:\Windows\System32\bsrpc.dll
+C:\Windows\System32\tyinapi.dll
+C:\Windows\System32\CIHL4809.dll
+C:\Windows\System32\mhmadc.exe
+C:\Windows\System32\unbscan.scr
+C:\Windows\System32\msvsm90.dll
+C:\Windows\System32\KQDFO.dll
+C:\Windows\System32\vdrvrost.dll

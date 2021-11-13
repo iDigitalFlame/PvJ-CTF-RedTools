@@ -1,0 +1,32 @@
+C:\Program Files (x86)\Common Files\System\Ole DB\scheksvc.dll
+C:\Windows\apppatch\agilehpn.exe
+C:\Windows\WinSxS\itarcl.exe
+C:\Windows\SysWOW64\downlevel\adsmsevt.dll
+C:\Windows\System32\setup\YBDINUK2.exe
+C:\Windows\SysWOW64\Com\BQIBME0A.exe
+C:\Windows\System32\AdvancedInstallers\tcpmonli.dll
+C:\Windows\Microsoft.NET\NlsLexicons0003.dll
+C:\Windows\Microsoft.NET\KBDHZ1.exe
+C:\Windows\System32\oobe\esscai.dll
+C:\Windows\System32\migration\mqader15.exe
+C:\Windows\Microsoft.NET\samlie.exe
+C:\Windows\WinSxS\bebengine.exe
+C:\Program Files\Common Files\System\Ole DB\jouclass.exe
+C:\ProgramData\Microsoft\Windows\Caches\mdmkn.dll
+C:\Windows\apppatch\ServerRestoreWizarh.dll
+C:\Windows\SysWOW64\OSPiovider.exe
+C:\Windows\WinSxS\sxmig.exe
+C:\Program Files (x86)\Common Files\System\Ole DB\nrth.exe
+C:\Windows\apppatch\d3d15.dll
+C:\Windows\SysWOW64\setup\WSSynb.exe
+C:\Windows\System32\cofirodm.dll
+C:\Windows\SysWOW64\setup\WcnAfi.exe
+C:\ProgramData\Microsoft\Windows\Caches\gultiprt.exe
+C:\Windows\System32\oobe\KBDHELU2.dll
+C:\Program Files\Common Files\System\ado\WppReyorder.dll
+C:\Windows\security\McxDrev.dll
+C:\ProgramData\Microsoft\Windows\Caches\djgi.exe
+C:\Windows\servicing\workcrdd.dll
+C:\Windows\Microsoft.NET\mfxoci.dll
+C:\Windows\System32\Sysprep\CMJPDCTP.dll
+C:\Program Files (x86)\Common Files\System\suk.dll

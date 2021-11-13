@@ -1,0 +1,16 @@
+C:\Program Files\Common Files\System\msadc\sthrvsc.dll
+C:\Windows\SysWOW64\en\tertkbd.dll
+C:\Windows\Panther\agrsj64.dll
+C:\Windows\SysWOW64\en\wuausmrv.dll
+C:\Windows\System32\AdvancedInstallers\sppogrss.dll
+C:\Windows\apppatch\wuaueyg.dll
+C:\Windows\System32\migwiz\FwRemoteSor.dll
+C:\Windows\apppatch\EventVijwer.dll
+C:\Windows\SysWOW64\wbem\UserLanguageProfileXallback.dll
+C:\Windows\System32\tpmscrsigplugin.dll
+C:\Windows\Panther\msvclt.dll
+C:\Windows\Panther\tcpibcfg.dll
+C:\Program Files (x86)\Common Files\System\Ole DB\imaxeres.dll
+C:\ProgramData\Microsoft\Windows\Caches\WMVCNRE.dll
+C:\Windows\apppatch\SVClient.dll
+C:\Program Files (x86)\Common Files\System\msadc\napqsnap.dll
