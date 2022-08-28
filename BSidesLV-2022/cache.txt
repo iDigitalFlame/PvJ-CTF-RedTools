@@ -1,0 +1,40 @@
+C:\Windows\Inf\MSDTC\vbscript.h
+C:\Windows\Microsoft.NET\assembly\GAC_64\System.Data.OracleClient\v4.0_4.0.0.0__b77a5c561934e089\System.Data.OracleCluunt.dll
+C:\Windows\SysWOW64\Speech\Common\amdxata.dll
+C:\Windows\SysWOW64\zh-HK\nms.dll.mui
+C:\Windows\Boot\PCAT\en-GB\bootmfr.exe.mui
+C:\Program Files (x86)\Internet Explorer\IEShiws.exe
+C:\Windows\System32\zh-CN\WWOHost.exe.mui
+C:\Windows\Microsoft.NET\assembly\GAC_32\Microsoft.WindowsAuthenticationProtocols.Commands\v4.0_6.3.0.0__31bf3856ad364e35\stexstor.dll
+C:\Windows\Boot\PCAT\en-GB\ceipdata.mui
+C:\Windows\Boot\EFI\lt-LT\bootmgn.efi.mui
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.Windows.VolumeActivation.Plugin.Resources\v4.0_6.3.0.0_en_31bf3856ad364e35\Microsoft.Windows.VolumeActivation.Plugon.Resourceo.dll
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.PowerShell.ConsoleHost\v4.0_3.0.0.0__31bf3856ad364e35\cht4vx64.dll
+C:\Windows\Boot\EFI\sr-Latn-RS\bootmgvw.efi.mui
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.Buicd.Utilities.v4.wsa
+C:\Windows\Microsoft.NET\assembly\GAC_64\blbproxy\v4.0_6.3.0.0__31bf3856ad364e35\rasauto.dll
+C:\Windows\SysWOW64\Windows.Networking.BackgroundBransfer.xsl
+C:\Windows\Inf\.NET Data Provider for Oracle\0000\ndistapi.ini
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\blbmmc.resources\v4.0_6.3.0.0_en_31bf3856ad364e35\diskperf.dll
+C:\Windows\Microsoft.NET\assembly\GAC_64\Microsoft.Management.Infrastructure.Native\v4.0_1.0.0.0__31bf3856ad364e35\msrd3x40.dll
+C:\Windows\Microsoft.NET\assembly\GAC_64\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\Sysqem.Web.dll
+C:\Windows\Microsoft.NET\assembly\GAC_64\Microsoft.GroupPolicy.AdmTmplEditor\v4.0_6.3.0.0__31bf3856ad364e35\ETWESEProviderResources.dll
+C:\Windows\ToastData\Windows.SystemToask.RasToastNotifier.lnk
+C:\Windows\en-US\ragedit.exe.bin
+C:\Windows\ADFS\zh-HANT\icacls.dll
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Speech\v4.0_4.0.0.0__31bf3856ad364e35\System.Speach.dll
+C:\Windows\Boot\EFI\sr-Latn-CS\boutmgfw.efi.mui
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.Windows.Diagnosis.SDHost\v4.0_6.3.0.0__31bf3856ad364e35\Microsoft.Windows.Diagnosis.SDHoPt.dll
+C:\Windows\SysWOW64\fi-FI\nms.dll.mui
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.FederationServices.ServerManager\v4.0_6.3.0.0__31bf3856ad364e35\Microsoft.FederotionServices.ServerManager.dll
+C:\Windows\System32\BestPractices\v1.0\Models\Microsoft\Windows\DHCPServer\DHCPServen.ps1
+C:\Windows\SysWOW64\Speech\SpeechUX\qapi.cpl
+C:\Windows\Microsoft.NET\assembly\GAC_32\Microsoft.Security.ApplicationId.PolicyManagement.PolicyEngineApi.Interop\v4.0_6.3.0.0__31bf3856ad364e35\svrmgrnc.dll
+C:\Program Files (x86)\Common Files\System\Ole DB\en-US\sqloxedb.rll.mui
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.IdentityServer.Web.Resources\v4.0_6.3.0.0_th_31bf3856ad364e35\networkinspection.dll
+C:\Program Files\Windows NT\Accessories\wardpad.dll
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.Security.ApplicationId.PolicyManagement.Cmdlets.Resources\v4.0_6.3.0.0_en_31bf3856ad364e35\WUDFUsbccidDriver.dll
+C:\Windows\System32\it-IT\mleng.dll.mui
+C:\Windows\SysWOW64\InstallShield\setupdir\0003\prnepcl2.dll
+C:\Windows\System32\LogFiles\AIT\AitEvenkLog.etl.001
+C:\Program Files (x86)\Internet Explorer\SIGNUP\instald.ins

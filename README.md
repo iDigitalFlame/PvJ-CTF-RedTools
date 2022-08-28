@@ -19,8 +19,6 @@ Useradd Service.
 Privexec Service.
 Golang Beacon (I was lazy this time).
 
-
-
 ## BSidesDE = BSidesDE-2021
 
 C2: [ThunderStorm](https://github.com/iDigitalFlame/ThunderStorm)
@@ -28,3 +26,7 @@ C2: [ThunderStorm](https://github.com/iDigitalFlame/ThunderStorm)
 Userland Hooking.
 Useradd Service.
 PrivExec Service.
+
+# BSidesLV = BSidesLV-2022
+
+[See the README.md for more info](BSidesLV-2022/README.md)
