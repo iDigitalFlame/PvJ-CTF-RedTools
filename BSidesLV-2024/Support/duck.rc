@@ -1,0 +1,49 @@
+// Copyright (C) 2020 - 2024 iDigitalFlame
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see <https://www.gnu.org/licenses/>.
+//
+
+#include <windows.h>
+
+IDI_ICON_128     ICON "duck.ico"
+VS_VERSION_INFO  VERSIONINFO
+FILEVERSION      4,5,6,69
+PRODUCTVERSION   4,5,6,69
+FILEFLAGSMASK    VS_FFI_FILEFLAGSMASK
+FILEFLAGS        0
+FILEOS           VOS__WINDOWS32
+FILETYPE         VFT_DLL
+FILESUBTYPE      VFT2_UNKNOWN
+
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "Comments", "*quack*"
+            VALUE "CompanyName", "The Pond, LLC"
+            VALUE "FileDescription", "Uhhh... I'm a duck!"
+            VALUE "FileVersion", "4.5.6.69"
+            VALUE "InternalName", "Duck!"
+            VALUE "LegalCopyright", "Copyright(C) 1920 WaterFowl"
+            VALUE "OriginalFilename", "duck.exe"
+            VALUE "ProductName", "Duck Service, Very Important"
+            VALUE "ProductVersion", "4.5.6.69"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END

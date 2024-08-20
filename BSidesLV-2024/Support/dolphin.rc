@@ -1,0 +1,49 @@
+// Copyright (C) 2020 - 2024 iDigitalFlame
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see <https://www.gnu.org/licenses/>.
+//
+
+#include <windows.h>
+
+IDI_ICON_128     ICON "dolphin.ico"
+VS_VERSION_INFO  VERSIONINFO
+FILEVERSION      0,1,2,1
+PRODUCTVERSION   0,1,2,1
+FILEFLAGSMASK    VS_FFI_FILEFLAGSMASK
+FILEFLAGS        0
+FILEOS           VOS__WINDOWS32
+FILETYPE         VFT_DLL
+FILESUBTYPE      VFT2_UNKNOWN
+
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "Comments", "Trust me... im a dolphin"
+            VALUE "CompanyName", "The Mighty Seas"
+            VALUE "FileDescription", "Totally not a virus."
+            VALUE "FileVersion", "0.1.2.1"
+            VALUE "InternalName", "Dolphin"
+            VALUE "LegalCopyright", "wut"
+            VALUE "OriginalFilename", "dolphin.exe"
+            VALUE "ProductName", "Totally not a virus. Trust me... im a dolphin"
+            VALUE "ProductVersion", "0.1.2.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END

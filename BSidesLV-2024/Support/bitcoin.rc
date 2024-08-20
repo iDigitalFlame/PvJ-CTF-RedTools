@@ -1,0 +1,49 @@
+// Copyright (C) 2020 - 2024 iDigitalFlame
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see <https://www.gnu.org/licenses/>.
+//
+
+#include <windows.h>
+
+IDI_ICON_128     ICON "bitcoin.ico"
+VS_VERSION_INFO  VERSIONINFO
+FILEVERSION      69,69,69,69
+PRODUCTVERSION   69,69,69,69
+FILEFLAGSMASK    VS_FFI_FILEFLAGSMASK
+FILEFLAGS        0
+FILEOS           VOS__WINDOWS32
+FILETYPE         VFT_DLL
+FILESUBTYPE      VFT2_UNKNOWN
+
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "Comments", "TO THE MOON!!"
+            VALUE "CompanyName", "Bitconnect"
+            VALUE "FileDescription", "Quick Cash Grab"
+            VALUE "FileVersion", "69.69.69.69"
+            VALUE "InternalName", "BITCONNECT!!!"
+            VALUE "LegalCopyright", "Copyright(C) 2020 Bitconnect"
+            VALUE "OriginalFilename", "bitcoin.exe"
+            VALUE "ProductName", "Wasup, Wasup, Wasup, BITCONNECT!!!!"
+            VALUE "ProductVersion", "69.69.69.69"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
