@@ -26,6 +26,6 @@ Tools/Tech Used
 - [Cache/Support](files.md)
 - [Webshell](webshell.asp)
 
-Support Binaries (your favorite Duck service)! are in the [Support/src](Support/src)
+Support Binaries (your favorite Duck service)! are in the [Support](Support)
 folder. You can build these with the [build.sh](Support/build.sh) script
 _(Requires MinGW)_

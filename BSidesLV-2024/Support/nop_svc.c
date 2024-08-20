@@ -1,4 +1,4 @@
-// Copyright (C) 2020 - 2022 iDigitalFlame
+// Copyright (C) 2020 - 2024 iDigitalFlame
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -58,7 +58,7 @@ HANDLE state;
 SERVICE_STATUS_HANDLE run;
 
 void WINAPI UpdateState(DWORD);
-void WINAPI NopService(DWORD, LPWSTR*);
+void WINAPI NopService(DWORD, LPWSTR *);
 
 int main(int argc, char *argv[]) {
     SERVICE_TABLE_ENTRYW t[] = {{L"", &NopService}, {NULL, NULL}};
@@ -67,7 +67,7 @@ int main(int argc, char *argv[]) {
 }
 
 DWORD WINAPI ServiceManager(DWORD c, DWORD v, void *d, void *x) {
-    switch(c) {
+    switch (c) {
     case SERVICE_CONTROL_STOP:
     case SERVICE_CONTROL_SHUTDOWN:
         UpdateState(0x3);
