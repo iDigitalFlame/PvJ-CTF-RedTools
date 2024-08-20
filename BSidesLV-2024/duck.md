@@ -7,7 +7,7 @@ if it died.
 
 The service was written to prevent being stopped and only respond to shutdown requests.
 
-Source in [`Support/src/duck.c`](Support/src/duck.c)
+Source in [`Support/duck.c`](Support/duck.c)
 
 ## Startup
 
