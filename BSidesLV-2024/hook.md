@@ -1,6 +1,6 @@
 # Userland Hooking
 
-Userland Hooking was done by injecting the compiled hersion of [`hook.c`](hook.c)
+Userland Hooking was done by injecting the compiled version of [`hook.c`](hook.c)
 into each user process.
 
 ## taskkill
